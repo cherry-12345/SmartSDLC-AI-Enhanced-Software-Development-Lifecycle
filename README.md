@@ -161,5 +161,4 @@ Let me know if you'd like me to:
 - Generate a `LICENSE` file
 - Add visual screenshots or usage demos
 
-Would you like this pushed as a file?
 ```
