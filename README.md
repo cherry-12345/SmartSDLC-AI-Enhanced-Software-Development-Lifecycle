@@ -134,7 +134,7 @@ python app/main.py
 
 ## 📎 Important Links
 
-* 🔗 GitHub Repo: [SmartSDLC on GitHub](https://github.com/cherry-12345/SmartSDLC-AI-Enhanced-Software-Development-Lifecycle)
+* 🔗 GitHub Repo: [SmartSDLC on GitHub]*(https://github.com/cherry-12345/SmartSDLC-AI-Enhanced-Software-Development-Lifecycle)*
 * 🔗 Live Colab Demo: *Insert your Colab link here*
 
 ---
