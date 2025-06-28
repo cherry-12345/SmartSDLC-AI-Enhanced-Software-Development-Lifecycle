@@ -20,7 +20,7 @@ All features are integrated into a modular, user-friendly Gradio interface hoste
 
 ## 📽 Live Demo
 
-▶️ [Run SmartSDLC on Google Colab](https://colab.research.google.com/drive/YourColabNotebookID)  
+▶️ [Run SmartSDLC on Google Colab](https://colab.research.google.com/drive/YourColabNotebookID](https://drive.google.com/file/d/1Mz0vxiBIaC5eYsgmS9didfk1GCYbItHp/view)  
 _Replace with your actual Colab notebook URL_
 
 ---
